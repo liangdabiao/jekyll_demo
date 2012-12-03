@@ -1,5 +1,5 @@
+auto:true
 baseurl: /jekyll_demo
-url: http://liangdabiao.github.com
 markdown: rdiscount
 pygments: true
 
